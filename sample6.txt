@@ -1,1 +1,3 @@
 This is a sample6.txt file
+
+New line
